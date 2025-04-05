@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+node_modules
+.cache
+dist
+.env
+.history
+dist/
+.parcel-cache
