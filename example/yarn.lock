@@ -638,9 +638,9 @@
   dependencies:
     "@parcel/plugin" "2.14.4"
 
-"@parcel/transformer-react-refresh-wrap@2.14.4":
+"@parcel/transformer-react-refresh-wrap@2.14.4", "@parcel/transformer-react-refresh-wrap@^2.8.3":
   version "2.14.4"
-  resolved "https://registry.npmmirror.com/@parcel/transformer-react-refresh-wrap/-/transformer-react-refresh-wrap-2.14.4.tgz#65520f01ab1616e0f884ab0a5eb7b719cb7fcf48"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-react-refresh-wrap/-/transformer-react-refresh-wrap-2.14.4.tgz#65520f01ab1616e0f884ab0a5eb7b719cb7fcf48"
   integrity sha512-nb70CAvjDizAIQ1naZ39P/PxYWtPllWvvxrkpldNnk8AF74OcHodrsuHKwhyPZHMmnMdexFonsenf+VeN4l/aQ==
   dependencies:
     "@parcel/error-overlay" "2.14.4"
@@ -980,6 +980,11 @@ commander@^12.1.0:
   version "12.1.0"
   resolved "https://registry.npmmirror.com/commander/-/commander-12.1.0.tgz#01423b36f501259fdaac4d0e4d60c96c991585d3"
   integrity sha512-Vw8qHK3bZM9y/P10u3Vib8o/DdkvA2OtPtZvD871QKjy74Wj1WSKFILMPRPSdUSx5RFK1arlJzEtA4PkFgnbuA==
+
+contentroller@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/contentroller/-/contentroller-0.1.0.tgz#28a3345d9c0b75bcab5b1319b5bfeb67694dbe46"
+  integrity sha512-JxHVXtCmQaYZjlKZ2Cif8GTJG9nHUDGMIHb1Lax+C2N4CKnuoAssv12I5hYSNtzVp12TRS/vLvXWd32loeCa6A==
 
 core-js@^3.5.0:
   version "3.41.0"

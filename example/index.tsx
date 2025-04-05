@@ -2,6 +2,7 @@ import * as React from 'react';
 import 'react-app-polyfill/ie11';
 import { createRoot } from 'react-dom/client';
 import { ContentRoller } from '../.';
+// import { ContentRoller } from 'contentroller';
 
 const App = () => {
   return (

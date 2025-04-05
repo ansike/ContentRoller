@@ -8,6 +8,7 @@
     "build": "rm -rf .parcel-cache && parcel build index.html"
   },
   "dependencies": {
+    "contentroller": "^0.1.0",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {
